@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Estou aprendendo JavaScript<br>👨‍💻 Em busca de experiência na área de programação
+👨‍💻 Em busca de experiência na área de programação
 
 
 ## 🌐 Socials:

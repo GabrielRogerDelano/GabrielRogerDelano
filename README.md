@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨‍💻 Em busca de experiência na área de programação
+Desenvolvedor em transição com background em ensino de programação e robótica. Apaixonado por tecnologia, com foco atual em desenvolvimento web full stack utilizando React, Node.js, JavaScript e ferramentas modernas.
+
+Atualmente estudo e construo projetos pessoais para consolidar conhecimentos em front-end e back-end. Acredito no aprendizado contínuo e no poder de criar soluções que resolvem problemas reais.
+
+Aqui você vai encontrar meus experimentos, desafios, estudos e contribuições. Fique à vontade para explorar!
 
 
 ## 🌐 Socials:
